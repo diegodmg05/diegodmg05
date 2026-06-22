@@ -1,4 +1,5 @@
 <img src="./assets/github-banner.png" width="100%" />
+<!---->
 # 👋 Hola, soy Diego del Moral Gilo.
 
 ## 💻 Junior Full Stack Developer
